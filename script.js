@@ -4,5 +4,5 @@
 // })
 
 function Explore(params) {
-    alert("Explore Now!!!")
+    alert("FORWARD EVER HAHJAJJAJAJ")
 }
